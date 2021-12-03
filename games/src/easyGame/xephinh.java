@@ -1,3 +1,4 @@
+package easyGame;
 
 
 import java.awt.*;
