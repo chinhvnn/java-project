@@ -13,7 +13,7 @@
 ## II. CODEWAR
 - Train thuật toán https://www.codewars.com/users/chinhvnn
 
-## III. SRPING WEB MVC
+## III. SRPING WEB MVC (chinhworkshop)
 - Name: Clock shop
 - Core:
     + HTML/CSS, JAVA (Maven - spring web mvc), MySQL
