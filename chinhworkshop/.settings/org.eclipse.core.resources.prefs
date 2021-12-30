@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/chinhworkshop/Controller/CartController.java=UTF-8
+encoding//src/main/java/chinhworkshop/Controller/HomeController.java=UTF-8
+encoding//src/main/java/chinhworkshop/Controller/UserController.java=UTF-8
+encoding//src/main/java/chinhworkshop/DAO/BrandsDAO.java=UTF-8
+encoding//src/main/java/chinhworkshop/DAO/SlidesDAO.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/column-left.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/user_layout.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/index.jsp=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
